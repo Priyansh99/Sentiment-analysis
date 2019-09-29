@@ -1,0 +1,12 @@
+About My project:-
+---------------------------------------------------------------------------------------------------
+
+In this project I have done sentiment analysis of two different types of problems
+1- Spam Detaction
+2- Hotel Review System
+
+
+In spam detectation you have to write some message like :- " you won a lottery "etc.
+then according to model that I have build it will predict wether the message you have entered is Spam or ham
+
+In Hotel Review System you to have to give feedback or Review about food/hotel for example:- "food was awesome" or "food was tasty" etc. than according to it will predict wether you Liked/Not liked the hotel 
